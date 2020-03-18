@@ -1,0 +1,15 @@
+[logging]
+fileLog = log.txt
+logEnable = 1
+
+[service]
+host=0.0.0.0
+port=8080
+url=http://127.0.0.1:8080/termos
+
+[database]
+host=localhost
+port=3307
+user=username
+pass=password
+name=databasename
