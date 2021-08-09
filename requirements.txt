@@ -20,7 +20,7 @@ portend==2.6
 post==2019.4.13
 public==2019.4.13
 pytz==2019.3
-pywin32==227
+pywin32==301
 query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
